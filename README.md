@@ -4,7 +4,7 @@
 #### Pode ser jogado por **1 jogador** (contra um *jogador artificial*) ou por **2 jogadores**.<br /><br />
 
 
-##### Novo projeto:HTML,CSS,JAVASCRIT.
+##### Novo projeto: HTML,CSS,JAVASCRIT.
 
 ## Recursos
 - 100% Responsivo.
